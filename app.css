@@ -1,0 +1,17 @@
+.a-btn{
+    text-align: center;
+    border: white 3px solid;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 10px 30px 10px 30px;
+}
+
+.b-red{ 
+    border: red 1px solid;
+}
+
+.border-leerzorg{
+    border-bottom: solid 5px #A58EA5;
+    padding-bottom: 15px;
+}
